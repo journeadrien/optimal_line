@@ -1,0 +1,16 @@
+employee_id,skills,age,is_female,stress_level,chronic_condition
+E_1,O_2 O_4 O_7,56,True,0.89,False
+E_2,O_1 O_8,42,True,0.59,True
+E_3,O_1 O_2,26,True,0.94,False
+E_4,O_1 O_3 O_7,58,True,0.76,False
+E_5,O_4 O_6 O_8,43,True,0.42,True
+E_6,O_6,43,True,0.74,False
+E_7,O_2 O_5 O_8,57,False,0.59,True
+E_8,O_4 O_7,51,True,0.37,False
+E_9,O_8,57,True,0.78,False
+E_10,O_1 O_8,55,True,0.31,False
+E_11,O_1 O_3 O_4,37,True,0.4,False
+E_12,O_5 O_6 O_8,60,True,0.38,True
+E_13,O_1 O_4 O_7,55,False,0.57,True
+E_14,O_6 O_7 O_8,51,False,0.0,False
+E_15,O_1 O_4,36,True,0.86,False
