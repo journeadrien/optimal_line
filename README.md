@@ -1,6 +1,6 @@
 # optimal_line
 
-Repo for Serge's operation line problem. The idea is to evaluate the risk of operation line failure due to sickness or accident with limited staff but more trained.
+Repo for Serge's production line problem. The idea is to evaluate the risk of operation line failure due to sickness or accident with limited staff but more trained.
 
 
 
